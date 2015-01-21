@@ -1,0 +1,10 @@
+c:\users\aastepanov\documents\visual studio 2012\Projects\Pilots\Pilots\bin\Debug\Pilots.exe.config
+c:\users\aastepanov\documents\visual studio 2012\Projects\Pilots\Pilots\bin\Debug\Pilots.exe
+c:\users\aastepanov\documents\visual studio 2012\Projects\Pilots\Pilots\bin\Debug\Pilots.pdb
+c:\users\aastepanov\documents\visual studio 2012\Projects\Pilots\Pilots\obj\Debug\Pilots.csprojResolveAssemblyReference.cache
+c:\users\aastepanov\documents\visual studio 2012\Projects\Pilots\Pilots\obj\Debug\Pilots.MainForm.resources
+c:\users\aastepanov\documents\visual studio 2012\Projects\Pilots\Pilots\obj\Debug\Pilots.Child.resources
+c:\users\aastepanov\documents\visual studio 2012\Projects\Pilots\Pilots\obj\Debug\Pilots.Properties.Resources.resources
+c:\users\aastepanov\documents\visual studio 2012\Projects\Pilots\Pilots\obj\Debug\Pilots.csproj.GenerateResource.Cache
+c:\users\aastepanov\documents\visual studio 2012\Projects\Pilots\Pilots\obj\Debug\Pilots.exe
+c:\users\aastepanov\documents\visual studio 2012\Projects\Pilots\Pilots\obj\Debug\Pilots.pdb
